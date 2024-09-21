@@ -1,4 +1,4 @@
-# Calculadora Simples | 	:heavy_plus_sign: :heavy_minus_sign: :heavy_multiplication_x: :heavy_division_sign: 
+# Calculadora Simples | ➕ ➖ ✖️ ➗ 
 
 Uma calculadora simples desenvolvida em JavaScript, HTML e CSS. Este projeto tem como objetivo demonstrar a manipulação do DOM e conceitos básicos de programação web.
 
