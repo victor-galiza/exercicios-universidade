@@ -15,11 +15,12 @@ Uma calculadora simples desenvolvida em JavaScript, HTML e CSS. Este projeto tem
    git clone https://github.com/victor-galiza/exercicios-universidade.git
 
 2. Navegue até a pasta da calculadora:
-   cd exercicios-universidade/calculadora-simples-com-javascript
+   ```bash
+    cd exercicios-universidade/calculadora-simples-com-javascript
 
-3. Abra o arquivo _index.html_ em seu navegador.
+4. Abra o arquivo _index.html_ em seu navegador.
    
-4. Utilize os botões para realizar cálculos. O resultado será exibido na tela.
+5. Utilize os botões para realizar cálculos. O resultado será exibido na tela.
 
 ## Tecnologias Utilizadas
 **HTML**: Estruturação da página.
