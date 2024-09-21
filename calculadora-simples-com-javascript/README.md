@@ -12,7 +12,7 @@ Uma calculadora simples desenvolvida em JavaScript, HTML e CSS. Este projeto tem
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/exercicios-universidade.git
+   git clone https://github.com/victor-galiza/exercicios-universidade.git
 
 2. Navegue até a pasta da calculadora:
    cd exercicios-universidade/calculadora-simples-com-javascript
