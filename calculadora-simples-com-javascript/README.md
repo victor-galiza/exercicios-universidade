@@ -28,6 +28,7 @@ Uma calculadora simples desenvolvida em JavaScript, HTML e CSS. Este projeto tem
 **JavaScript**: Lógica da calculadora e manipulação do DOM.
 
 ## Capturas de Tela
+![Captura de tela da calculadora](captura-tela.png)
 
 ## Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
