@@ -17,24 +17,6 @@ Para rodar este projeto em seu computador, você precisará de:
 - Um compilador C (como **GCC**, **MinGW**, ou um IDE como **Code::Blocks**).
 - Sistema operacional compatível: **Windows**, **Linux** ou **macOS**.
 
-## Instalação
-
-1. Clone este repositório em seu computador:
-   ```bash
-   git clone https://github.com/seu_usuario/nome-do-repositorio.git
-
-2. Navegue até o diretório do projeto:
-   ```bash
-   cd nome-do-repositorio
-
-3. Compile o código:
-    ```bash
-    gcc estoque.c -o estoque
-
-4. Execute o programa:
-    ```bash
-    ./estoque
-
 
 ## Como Usar
 Ao executar o programa, você verá um menu com as seguintes opções:
@@ -55,15 +37,6 @@ contador_id.bin: Armazena o próximo ID disponível para produtos.
 produtos.bin: Armazena os produtos cadastrados.
 vendas.bin: Armazena as vendas realizadas.
 Esses arquivos são utilizados para persistir os dados entre execuções do programa.
-
-## Estrutura do Projeto
-    
-    /nome-do-repositorio
-    ├── estoque.c              # Código fonte principal do sistema
-    ├── README.md              # Documentação do projeto
-    ├── contador_id.bin        # Arquivo binário para controle de ID
-    ├── produtos.bin           # Arquivo binário com os produtos cadastrados
-    └── vendas.bin             # Arquivo binário com as vendas registradas
 
 
 ## Testes
